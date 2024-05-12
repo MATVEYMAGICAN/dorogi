@@ -43,7 +43,8 @@ body{
 
 .one img{
     width:400px;
-    height: 500px;
+    height: 600px;
+    border-radius: 25px;
 }
 
 .one p{
